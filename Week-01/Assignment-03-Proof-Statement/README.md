@@ -1,16 +1,8 @@
 # Week 1 - Assignment 3: Proof Statement
 
-## Claim
+## Proof Statement
 
-I build practical AI applications that help people solve real problems, make better decisions, and work more efficiently.
-
-## Target Audience
-
-Recruiters hiring AI/ML Engineers.
-
-## Primary Action
-
-Contact me for an interview.
+I build practical AI applications that help people solve real problems, make better decisions, and work more efficiently. This portfolio is designed for Recruiters hiring AI/ML Engineers so they can see my capabilities. My goal is for recruiters to contact me for an interview.
 
 ## Why this portfolio needs to exist
 
