@@ -20,7 +20,7 @@ I wanted to build something a farmer could actually use in the field: take a pho
 
 ## What I Did
 
-I built Kisan AI as a solo project with three connected features:
+I built Kisan AI as a solo project with four connected features:
 
 **1. Plant Disease Detection from Photos**
 A farmer uploads a photo of their plant, and I send that image to a vision-capable model through Groq's API to identify the likely disease. Once the disease is identified, I match it against my own remedy database to return a clear treatment recommendation — rather than letting the model freely generate treatment advice, which keeps the guidance consistent and controlled.
