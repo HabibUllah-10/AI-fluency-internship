@@ -292,4 +292,6 @@ This final prompt combines the successful improvements from all previous version
 - I also learned that AI responses should always be reviewed because the model can make assumptions or leave placeholders when information is missing.
 
 ---
+# At least one honest 'this didn't help
 
+Adding the target audience improved the tone, but it didn't eliminate the need for manual verification because the AI still left placeholders for missing information
