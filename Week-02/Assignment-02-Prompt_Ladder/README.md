@@ -26,14 +26,7 @@ Write a case study for my portfolio.
 
 ## Representative Output
 
-> Paste a representative excerpt from Claude's response.
 I'd love to help. A few quick things will help me write something that actually fits your work:
-
-OR
-
-```md
-![Baseline Output](images/baseline.png)
-```
 
 ---
 
@@ -56,12 +49,6 @@ There are several different "Kisan AI" projects out there, so I can't tell which
 3. **What problem were you solving**, and for what tech stack / platform (mobile app, web app, hackathon project)?
 4. **Any results or outcomes** — users, accuracy numbers, awards, feedback — even rough estimates?
 If you give me even a short paragraph or bullet points on these, I'll turn it into a polished case study.
-
-OR
-
-```md
-![Version 1](images/version1.png)
-```
 
 ### Comparison with Baseline
 
@@ -98,12 +85,6 @@ I build kisan AI that helps farmer to diagnose disease of plants,field advice,ki
 
 A few more quick details and I can write a strong case study:
 
-OR
-
-```md
-![Version 2](images/version2.png)
-```
-
 ### Comparison with Version 1
 
 #### What changed in the prompt?
@@ -137,8 +118,6 @@ i made it solo and it won the first position at hackathon  regional level
 
 ## Representative Output
 
-> Paste a representative excerpt.
->
 # Kisan AI: Helping Farmers Diagnose Crop Disease with AI
 
 **Role:** Solo Builder (Design + Development)
@@ -164,12 +143,6 @@ I wanted to build something a farmer could point a phone camera at a sick plant 
 
 ---
 
-
-OR
-
-```md
-![Version 3](images/version3.png)
-```
 
 ### Comparison with Version 2
 
@@ -226,12 +199,6 @@ Building solo for a hackathon meant prioritizing ruthlessly — I focused on mak
 - **Backend / Stack:** MERN (MongoDB, Express, React, Node.js)
 - **AI / LLM:** Grok API — powering disease diagnosis reasoning, field advice generation, and the Kisan chatbot
 
-
-OR
-
-```md
-![Version 4](images/version4.png)
-```
 
 ### Comparison with Version 3
 
