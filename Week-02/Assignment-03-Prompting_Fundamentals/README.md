@@ -27,7 +27,7 @@ What is the difference between HTTP and HTTPS?
 
 ### Output
 
-*(Paste the complete AI output here.)*
+
 HTTP and HTTPS are both protocols used to transfer data between a web browser and a server, but they differ mainly in security:
 HTTP (HyperText Transfer Protocol)
 Sends data in plain text
@@ -69,7 +69,7 @@ You are an experienced computer networking instructor. Explain the difference be
 
 ### Output
 
-*(Paste the complete AI output here.)*
+
 Good question — this is one of those topics that seems simple on the surface but actually touches several core networking concepts, so let's build it up properly rather than just listing differences.
 
 Start with what HTTP actually is
@@ -89,7 +89,8 @@ HTTPS is not a different protocol from HTTP. It's HTTP running inside an encrypt
 Plain HTTP:    [Browser] --- HTTP (plaintext) ---> [Server]
 
 HTTPS:         [Browser] --- TLS(encrypted tunnel) --- [Server]
-                              └── HTTP travels inside here ──┘
+
+                            └── HTTP travels inside here ──┘
 
 So HTTP is still HTTP — same requests, same headers, same structure. It's just been wrapped in encryption before it hits the wire.
 
@@ -135,7 +136,7 @@ You are an experienced computer networking instructor. I know basic about networ
 
 ### Output
 
-*(Paste the complete AI output here.)*
+
 Good — since you already know basic networking, let's build on that foundation properly so this sticks with you long-term, not just for one project.
 
 Start with what you already know
@@ -230,7 +231,7 @@ Now explain HTTP vs HTTPS in the same style.
 
 ### Output
 
-*(Paste the complete AI output here.)*
+
 Concept: HTTP
 Explanation:
 HTTP (HyperText Transfer Protocol) is a set of rules that lets a browser and a server communicate and exchange data, like web pages. It sends this data as plain, readable text.
@@ -276,7 +277,7 @@ Explain HTTP and HTTPS using this structure:
 
 ### Output
 
-*(Paste the complete AI output here.)*
+
 1. What is HTTP
 HTTP (HyperText Transfer Protocol) is a set of rules that lets a browser (client) and a server communicate. It works on a request-response basis — your browser sends a request ("give me this page"), and the server sends back a response (the webpage data). It runs on port 80 and sends all data as plain, readable text.
 
@@ -338,7 +339,6 @@ Step 5: Explain how HTTPS helps in future work.
 
 ### Output
 
-*(Paste the complete AI output here.)*
 Step 1: What is HTTP and HTTPS
 
 HTTP (HyperText Transfer Protocol) is a set of rules that lets a browser and a server communicate — your browser sends a request for a page, and the server sends back the data. It does this using plain, readable text, over port 80.
