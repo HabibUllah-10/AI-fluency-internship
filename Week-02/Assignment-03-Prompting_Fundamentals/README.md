@@ -423,7 +423,7 @@ Please explain [TOPIC] by following these steps:
 
 Step 1: Explain the basic concept.
 
-Step 2: Compare it with related concepts.
+Step 2:Compare it with related concepts when applicable, or explain important differences and relationships.
 
 Step 3: Use a real-life analogy.
 
