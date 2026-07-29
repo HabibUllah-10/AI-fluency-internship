@@ -395,11 +395,11 @@ The AI followed each step in order without missing any requested topic. Compared
 
 ## Comparison
 
-| Aspect | Claude | ChatGPT |
+| Aspect | ChatGPT | Claude |
 |---------|---------|----------|
-| Tone | Simple| Medium|
+| Tone | It explain the concepts by using simple wording| It also explan but use little more technical word|
 | Accuracy |Accurate | Accurate|
-| Structure | Less|More |
+| Structure | Less organized Structure|More Organized Structure |
 | Strength |Uses easy words, so it is easy to understand and provides detailed explanations | Uses slightly technical words and provides a more structured response|
 | Weakness | May provide more explanation than needed| Gives shorter, to-the-point answers with less expansion|
 
